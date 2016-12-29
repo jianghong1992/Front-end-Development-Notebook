@@ -2,7 +2,8 @@
 - 视窗宽度  
 
   ```
-  <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,  
+  minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
   ```
   
   `其中 width=device-width 是设置视窗宽度为设备视窗宽度，还可以固定宽度，例如： width=640 则是640px的宽度（常见于微信）；  
