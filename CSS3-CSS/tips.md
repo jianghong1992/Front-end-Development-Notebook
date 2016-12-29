@@ -15,13 +15,6 @@
   ```
   <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no"/>
   ```
-- meta完整模板  
-
-  ```
-  <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no"/>  
-  <meta name="format-detection" content="telephone=no"/>  
-  <meta name="format-detection" content="email=no"/>
-  ```
 - 禁止ios识别数字为电话号码  
 
   ```
@@ -31,6 +24,13 @@
 
   ```
   <meta name="format-detection" content="email=no"/>  
+  ```
+- meta完整模板  
+
+  ```
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no"/>  
+  <meta name="format-detection" content="telephone=no"/>  
+  <meta name="format-detection" content="email=no"/>
   ```
 - 禁止ios使用默认样式  
 
