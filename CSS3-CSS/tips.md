@@ -59,5 +59,18 @@
   <input type=file accept="image/*">
   ```
   
-  `上面的文件上传框中，accept 可以限制上传文件的类型，参数为 image/* 是所有图片类型，点击会弹出图库，也可以指定图片格式，参数设置成 image/png 则可以限制图片类型为png；参数如果为 video/* 则是选择视频的意思；accept 还可以设置多个文件格式，语法为 accept="image/gif, image/jpeg" ；`
+  `上面的文件上传框中，accept 可以限制上传文件的类型，参数为 image/* 是所有图片类型，点击会弹出图库，也可以指定图片格式，参数设置成 image/png 则可以限制图片类型为png；参数如果为 video/* 则是选择视频的意思；accept 还可以设置多个文件格式，语法为 accept="image/gif, image/jpeg" `
+- 使用box-shadow改变(挡住)表单自动填充后的黄色  
+
+  ```
+  input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill{ box-shadow:inset 0 0 0 1000px #fff; }
+  ```
+- 使用border绘制小三角  
+
+  ```
+  border-width: 10px 10px 10px 0; //左箭头  
+  border-color: transparent #fff;  
+  border-style: solid;  
+  width: 0;
+  ```
   
