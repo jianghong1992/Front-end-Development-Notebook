@@ -6,14 +6,21 @@
   minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
   ```
   
-  `其中 width=device-width 是设置视窗宽度为设备视窗宽度，还可以固定宽度，例如： width=640 则是640px的宽度（常见于微信）； ` 
-  `initial-scale=1.0 ：设置缩放比例为1.0；  `
-  `minimum-scale=1.0 和 maximum-scale=1.0 ：最小缩放比例和最大缩放比例；  `
-  `user-scalable=no ：禁止用户自由缩放，user-scalable 默认值为 yes 。  `
-  `提示：刚刚那个是带全部参数的，一般常用的，有 user-scalable=no 就不用使用 minimum-scale=1.0 和 maximum-scale=1.0 来强制禁止缩放了。 `
+  `其中 width=device-width 是设置视窗宽度为设备视窗宽度，还可以固定宽度，例如： width=640 则是640px的宽度（常见于微信）； 
+  initial-scale=1.0 ：设置缩放比例为1.0；  
+  minimum-scale=1.0 和 maximum-scale=1.0 ：最小缩放比例和最大缩放比例；  
+  user-scalable=no ：禁止用户自由缩放，user-scalable 默认值为 yes 。  
+  提示：刚刚那个是带全部参数的，一般常用的，有 user-scalable=no 就不用使用 minimum-scale=1.0 和 maximum-scale=1.0 来强制禁止缩放了。 `
   
   ```
   <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no"/>
+  ```
+- meta完整模板  
+
+  ```
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no"/>  
+  <meta name="format-detection" content="telephone=no"/>  
+  <meta name="format-detection" content="email=no"/>
   ```
 - 禁止ios识别数字为电话号码  
 
