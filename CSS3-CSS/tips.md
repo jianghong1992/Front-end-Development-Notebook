@@ -13,8 +13,8 @@
   white-space: nowrap;  
   text-overflow: ellipsis; 
   ```
-- CSS3动态实现文本框清除按钮的隐藏与显示
-  ```
+- CSS3动态实现文本框清除按钮的隐藏与显示  
+  ```
   <input class="input" required><a class="clear"><i class="icon-close"></i></a> 
   ```  
   
