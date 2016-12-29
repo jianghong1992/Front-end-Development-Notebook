@@ -33,9 +33,20 @@
 　　`Sans-serif简介：Sans-serif是专指西文中没有衬线的字体，与汉字字体中的黑体相对应。该类字体通常是机械的和统一线条的，它们往往拥有相同的曲率，笔直的线条，锐利的转角。`   
 - [pointer-events属性](http://www.w3cplus.com/css3/css-reference/pointer-events.html) 
 
-  `pointer-events: none; 元素上的指针事件被禁用。元素不会响应于指针事件。就像该元素不存在一样，元素的子元素响应于指针事件。`  
-  
+  `pointer-events: none; 元素上的指针事件被禁用。元素不会响应于指针事件。就像该元素不存在一样，元素的子元素响应于指针事件。`    
 - 自定义苹果图标  
 
   `在网站文件根目录放一个 apple-touch-icon.png 文件，苹果设备保存网站为书签或桌面快捷方式时，就会使用这个文件作为图标，文件尺寸建议为：180px × 180px`
+- 自定义favicon  
+
+  ```
+  <link rel="icon" href="favicon.ico" mce_href="favicon.ico" type="image/x-icon">
+  ```  
+- 定义浏览器点击行为  
+
+  ```
+  <a href="tel:020-10086">打电话给:020-10086</a>  
+  <a href="sms:10086">发短信给: 10086</a>  
+  <a href="mailto:me@22278.club">发送邮件: me@22278.club</a>
+  ```
   
