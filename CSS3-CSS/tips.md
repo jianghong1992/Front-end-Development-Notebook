@@ -7,8 +7,8 @@
   ```
   -webkit-appearance: none;  
   ```
-- CSS3文字溢出显示省略号 
-  ```
+- CSS3文字溢出显示省略号  
+   ```
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis; 
