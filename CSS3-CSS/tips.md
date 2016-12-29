@@ -1,4 +1,20 @@
 # CSS3(CSS)技巧
+- 视窗宽度  
+
+  ```
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+  ```
+  
+  `其中 width=device-width 是设置视窗宽度为设备视窗宽度，还可以固定宽度，例如： width=640 则是640px的宽度（常见于微信）；
+  initial-scale=1.0 ：设置缩放比例为1.0；
+  minimum-scale=1.0 和 maximum-scale=1.0 ：最小缩放比例和最大缩放比例；
+  user-scalable=no ：禁止用户自由缩放，user-scalable 默认值为 yes 。
+  提示：刚刚那个是带全部参数的，一般常用的，有 user-scalable=no 就不用使用 minimum-scale=1.0 和 maximum-scale=1.0 来强制禁止缩放了。
+  `
+  
+  ```
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no"/>
+  ```
 - 禁止ios识别数字为电话号码  
 
   ```
@@ -13,21 +29,21 @@
 
   ```
   button,input,optgroup,select,textarea { 
-    -webkit-appearance:none; /*去掉webkit默认的表单样式*/
+    -webkit-appearance:none; 
   }  
   ```
 - 禁止长按链接与图片弹出菜单  
 
   ```
   a, img { 
-    -webkit-touch-callout: none; /*禁止长按链接与图片弹出菜单*/
+    -webkit-touch-callout: none; 
   }
   ```
 - 禁止选中文本  
 
   ```
   html, body { 
-    -webkit-user-select: none; /*禁止选中文本*/ 
+    -webkit-user-select: none; 
     user-select: none; 
   }
   ```
@@ -35,35 +51,35 @@
 
   ```
   a,button,input,optgroup,select,textarea { 
-    -webkit-tap-highlight-color:rgba(0,0,0,0); /*去掉a、input和button点击时的蓝色外边框和灰色半透明背景*/
+    -webkit-tap-highlight-color:rgba(0,0,0,0);
   }
   ```
 - 修改webkit中input的planceholder样式  
 
   ```
   input::-webkit-input-placeholder { 
-    color:#ccc; /*修改webkit中input的planceholder样式*/
+    color:#ccc;
   }
   ```
 - 修改webkit中focus状态下input的planceholder样式  
 
   ```
   input:focus::-webkit-input-placeholder { 
-    color:#f00; /*修改webkit中focus状态下input的planceholder样式*/
+    color:#f00; 
   }
   ```
 - 禁止IOS调整字体大小  
 
   ```
   body { 
-    -webkit-text-size-adjust: 100%!important; /*禁止IOS调整字体大小*/
+    -webkit-text-size-adjust: 100%!important; 
   }
   ```
 - 隐藏Android的语音输入按钮  
 
   ```
   input::-webkit-input-speech-button { 
-    display: none; /*隐藏Android的语音输入按钮*/
+    display: none;
   }
   ```
 - CSS3文字溢出显示省略号  
