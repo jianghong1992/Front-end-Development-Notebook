@@ -4,6 +4,11 @@
   ```
   <meta name="format-detection" content="telephone=no"/>  
   ```
+- 禁止浏览器自动识别Email  
+
+  ```
+  <meta name="format-detection" content="email=no"/>  
+  ```
 - 禁止ios使用默认样式  
 
   ```
