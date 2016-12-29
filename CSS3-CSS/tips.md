@@ -34,7 +34,8 @@
 - [pointer-events属性](http://www.w3cplus.com/css3/css-reference/pointer-events.html) 
 
   `pointer-events: none; 元素上的指针事件被禁用。元素不会响应于指针事件。就像该元素不存在一样，元素的子元素响应于指针事件。`  
-  -  
+  
 - 自定义苹果图标  
+
   `在网站文件根目录放一个 apple-touch-icon.png 文件，苹果设备保存网站为书签或桌面快捷方式时，就会使用这个文件作为图标，文件尺寸建议为：180px × 180px`
   
