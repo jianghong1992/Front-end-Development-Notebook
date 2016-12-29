@@ -20,8 +20,7 @@
 
   ```
   <input class="input" required><a class="clear"><i class="icon-close"></i></a> 
-  ```  
-  ```
+ 
   .input { padding: 5px; margin: 0; border: 1px solid #beceeb; }  
   .clear { display: none; position: absolute; width: 16px; height: 16px; margin: 0 0 0 -15px}  
   .input::-ms-clear { display: none; }  
