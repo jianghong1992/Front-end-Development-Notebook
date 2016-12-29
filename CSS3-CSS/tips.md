@@ -63,7 +63,11 @@
 - 使用box-shadow改变(挡住)表单自动填充后的黄色  
 
   ```
-  input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill{ box-shadow:inset 0 0 0 1000px #fff; }
+  input:-webkit-autofill,   
+  textarea:-webkit-autofill,   
+  select:-webkit-autofill {  
+    box-shadow: inset 0 0 0 1000px #fff;  
+  }
   ```
 - 使用border绘制小三角  
 
