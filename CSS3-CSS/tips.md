@@ -9,8 +9,8 @@
   ```
 - CSS3文字溢出显示省略号  
    ```
-  overflow: hidden;
-  white-space: nowrap;
+  overflow: hidden;  
+  white-space: nowrap;  
   text-overflow: ellipsis; 
   ```
 - CSS3动态实现文本框清除按钮的隐藏与显示
