@@ -33,6 +33,11 @@
   ```
 - font-family 定义的最后为什么要加一句sans-serif  
 
+  ```
+  body { 
+    font-family: "Helvetica Neue", Helvetica, STHeiTi, sans-serif; /*使用无衬线字体*/
+  }
+  ```
   `sans-serif无衬线字体，是一类字体，它在操作系统或者浏览器里是可以设置的，你可以把它设置成宋体，也可以设置成微软雅黑，而设置的这种字体肯定是当前系统里存在的字体，所以使用这个字体就一肯能显示出来，所以加上sans-serif就能保证调用。`  
   `Sans-serif简介：Sans-serif是专指西文中没有衬线的字体，与汉字字体中的黑体相对应。该类字体通常是机械的和统一线条的，它们往往拥有相同的曲率，笔直的线条，锐利的转角。`   
 - [pointer-events属性](http://www.w3cplus.com/css3/css-reference/pointer-events.html) 
@@ -77,4 +82,34 @@
   border-style: solid;  
   width: 0;
   ```
+- Tootip写法  
+
+  ```
+  <div class="box">嗨！点击菜单就可以关注兮兮公众号了哟~</div>  
+  
+  .box { 
+    position: relative; 
+    padding: 0 20px; 
+    width: 380px; 
+    height: 80px; 
+    border-radius: 8px; 
+    background: #efefef; 
+    font-size: 18px; 
+    line-height: 80px; 
+  }
+  .box:after { 
+    position: absolute; 
+    top: 50%; 
+    left: -15px; 
+    z-index: 1; 
+    display: block; 
+    margin-top: -15px; 
+    width: 0; 
+    border-color: transparent #efefef; 
+    border-style: solid; 
+    border-width: 15px 15px 15px 0; 
+    content: ""; 
+  }
+  ```
+  
   
