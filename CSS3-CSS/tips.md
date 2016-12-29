@@ -54,4 +54,11 @@
   <a href="sms:10086">发短信给: 10086</a>  
   <a href="mailto:me@22278.club">发送邮件: me@22278.club</a>
   ```
+- 定义上传文件类型和格式  
+
+  ```
+  <input type=file accept="image/*">
+  ```
+  
+  `上面的文件上传框中，accept 可以限制上传文件的类型，参数为 image/* 是所有图片类型，点击会弹出图库，也可以指定图片格式，参数设置成 image/png 则可以限制图片类型为png；参数如果为 video/* 则是选择视频的意思；accept 还可以设置多个文件格式，语法为 accept="image/gif, image/jpeg" ；`
   
