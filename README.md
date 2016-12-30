@@ -7,4 +7,5 @@
  * CSS3样式生成器（http://www.css88.com/tool/css3Preview/）  
  * CSS整理与优化工具（http://www.css88.com/tool/csstidy/）
  * CSS3渐变样式生成器（http://www.colorzilla.com/gradient-editor/）  
+* [纯CSS制作各种图形](https://segmentfault.com/a/1190000002780453)
 
