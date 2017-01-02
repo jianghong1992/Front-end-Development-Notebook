@@ -68,26 +68,25 @@
 * [15 个有趣的 JavaScript 与 CSS 库](http://www.jianshu.com/p/f651fc45e586)
 * [大牛在用](https://www.awesomes.cn/weuse)
 * [前端常用框架](https://github.com/iamjoel/front-end-plugins)
-* 好用的框架与插件
- * [Mock.js](http://mockjs.com/)
- * [基于jQuery的板功剪贴能](https://github.com/zeroclipboard/jquery.zeroclipboard)
- * [无依赖的剪贴板功能](https://clipboardjs.com/#example-text)
- * [PHP Mobile-Detect](https://github.com/serbanghita/Mobile-Detect)
- * [Device.js](https://github.com/matthewhudson/device.js)
- * [jQuery UI Touch Punch](http://touchpunch.furf.com/)使用jQuery UI时让移动的也支持 touch events
- * [Remember Me functionality on SignIn/Login ](http://devzone.co.in/remember-functionality-signinlogin-form-using-html5-jquery/)
- * [Web API文档生成工具apidoc](http://www.jianshu.com/p/bb5a4f5e588a)
- * [像素画 Pixel map](https://pixelmap.amcharts.com/)
- * [GEEKTyper](http://geektyper.com/)
- * 图片插件
-  * [PhotoSwiper](http://photoswipe.com/)
- * 日历插件
-  * [pickadate.js](https://github.com/amsul/pickadate.js)
- * 分享插件
-  * [share.js](http://overtrue.me/share.js/)
-  * [百度分享](http://share.baidu.com/)
-  * [Jia This](http://www.jiathis.com/)
-  * [sosh](http://www.calledt.com/sosh/)
+* [Mock.js](http://mockjs.com/)
+* [基于jQuery的板功剪贴能](https://github.com/zeroclipboard/jquery.zeroclipboard)
+* [无依赖的剪贴板功能](https://clipboardjs.com/#example-text)
+* [PHP Mobile-Detect](https://github.com/serbanghita/Mobile-Detect)
+* [Device.js](https://github.com/matthewhudson/device.js)
+* [jQuery UI Touch Punch](http://touchpunch.furf.com/)使用jQuery UI时让移动的也支持 touch events
+* [Remember Me functionality on SignIn/Login ](http://devzone.co.in/remember-functionality-signinlogin-form-using-html5-jquery/)
+* [Web API文档生成工具apidoc](http://www.jianshu.com/p/bb5a4f5e588a)
+* [像素画 Pixel map](https://pixelmap.amcharts.com/)
+* [GEEKTyper](http://geektyper.com/)
+* 图片插件
+ * [PhotoSwiper](http://photoswipe.com/)
+* 日历插件
+ * [pickadate.js](https://github.com/amsul/pickadate.js)
+* 分享插件
+ * [share.js](http://overtrue.me/share.js/)
+ * [百度分享](http://share.baidu.com/)
+ * [Jia This](http://www.jiathis.com/)
+ * [sosh](http://www.calledt.com/sosh/)
  
 ### 前端开发资源总结
 * [开发资源总结](https://segmentfault.com/a/1190000002691861)
