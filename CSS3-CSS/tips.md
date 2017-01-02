@@ -133,6 +133,33 @@
   <a href="sms:10086">发短信给: 10086</a>  
   <a href="mailto:me@22278.club">发送邮件: me@22278.club</a>
   ```
+- css3自适应上下左右居中  
+
+  ```
+  .aboutlist_wrap ul li a {display:table; }
+  .aboutlist_wrap ul li a p {display: table-cell;text-align: center;}
+  .aboutlist_wrap ul li a p {vertical-align: middle;}
+  ```
+- 移动端字体自适应大小  
+
+  ```
+  body {
+    font-family: "Microsoft YaHei";
+    font-size: 0.14rem;
+    color: #666;
+    max-width: 750px;
+    margin: auto;
+  }
+  @media screen and (min-width: 360px) {
+    html {font-size: 710%;}
+  }
+  @media screen and (min-width: 414px) {
+    html {font-size: 825%;}
+  }
+  @media screen and (min-width: 600px) {
+    html {font-size: 1095%;}
+  }
+  ```
 - 定义上传文件类型和格式  
 
   ```
