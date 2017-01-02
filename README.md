@@ -37,6 +37,7 @@
  * [译-148个资源让你成为CSS专家](https://segmentfault.com/a/1190000006689923)
  * [20个响应式的CSS和网格框架](https://www.yunrui.co/26022.html)
  * [纯CSS制作各种图形](https://segmentfault.com/a/1190000002780453)
+ * [13款CSS3进度条动画源代码下载](https://www.yunrui.co/26261.html)
 
 ### ICON
 * iconfont(字体库)
@@ -62,10 +63,30 @@
  * [IconToucan](http://icontoucan.com/)
  * [freepik](http://www.freepik.com/)
 
+### JS库与插件
+* [轻量高效无依赖的开源JS插件和库](https://github.com/jaywcjlove/handbook/blob/master/Javascript/%E8%BD%BB%E9%87%8F%E9%AB%98%E6%95%88%E7%9A%84%E5%BC%80%E6%BA%90JavaScript%E6%8F%92%E4%BB%B6%E5%92%8C%E5%BA%93.md)
+* [15 个有趣的 JavaScript 与 CSS 库](http://www.jianshu.com/p/f651fc45e586)
+
 ### 前端开发资源总结
 * [开发资源总结](https://segmentfault.com/a/1190000002691861)
-* [前端工程师知识结构](http://html5ify.com/fks/fks_chart/)
+* [前端工程师知识结构](http://html5ify.com/fks/)
+* [GitHub最全的前端资源汇总仓库](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+* [Github上整理的日常发现的好资源](http://www.jianshu.com/p/73df789e8710)
+* [mobileTech](https://github.com/jtyjty99999/mobileTech/blob/master/README.md)
+* [移动前端知识总结](http://caibaojian.com/mobile-knowledge.html)
+* [20个为前端开发者准备的文档和指南](http://www.codeceo.com/article/20-docs-guides-for-web-dev.html)
+* [大前端工具集](https://github.com/nieweidong/fetool)
 
+
+### 前端导航
+* [前端导航网](http://jsdig.com/)
+* [醉牛前端](http://f2er.club/)
+* [DIV.IO前端库大集合](http://div.io/digg)
+* [前端收藏夹](http://collect.w3ctrain.com/)
+* [Awesome-前端资源库](https://www.awesomes.cn/)
+
+### 综合
+* [203 个实用工具推荐，运营、设计、广告人的必备神器！](http://www.digitaling.com/articles/30356.html)
  
  
  
