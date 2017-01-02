@@ -66,7 +66,29 @@
 ### JS库与插件
 * [轻量高效无依赖的开源JS插件和库](https://github.com/jaywcjlove/handbook/blob/master/Javascript/%E8%BD%BB%E9%87%8F%E9%AB%98%E6%95%88%E7%9A%84%E5%BC%80%E6%BA%90JavaScript%E6%8F%92%E4%BB%B6%E5%92%8C%E5%BA%93.md)
 * [15 个有趣的 JavaScript 与 CSS 库](http://www.jianshu.com/p/f651fc45e586)
-
+* [大牛在用](https://www.awesomes.cn/weuse)
+* [前端常用框架](https://github.com/iamjoel/front-end-plugins)
+* 好用的框架与插件
+ * [Mock.js](http://mockjs.com/)
+ * [基于jQuery的板功剪贴能](https://github.com/zeroclipboard/jquery.zeroclipboard)
+ * [无依赖的剪贴板功能](https://clipboardjs.com/#example-text)
+ * [PHP Mobile-Detect](https://github.com/serbanghita/Mobile-Detect)
+ * [Device.js](https://github.com/matthewhudson/device.js)
+ * [jQuery UI Touch Punch](http://touchpunch.furf.com/)使用jQuery UI时让移动的也支持 touch events
+ * [Remember Me functionality on SignIn/Login ](http://devzone.co.in/remember-functionality-signinlogin-form-using-html5-jquery/)
+ * [Web API文档生成工具apidoc](http://www.jianshu.com/p/bb5a4f5e588a)
+ * [像素画 Pixel map](https://pixelmap.amcharts.com/)
+ * [GEEKTyper](http://geektyper.com/)
+ * 图片插件
+  * [PhotoSwiper](http://photoswipe.com/)
+ * 日历插件
+  * [pickadate.js](https://github.com/amsul/pickadate.js)
+ * 分享插件
+  * [share.js](http://overtrue.me/share.js/)
+  * [百度分享](http://share.baidu.com/)
+  * [Jia This](http://www.jiathis.com/)
+  * [sosh](http://www.calledt.com/sosh/)
+ 
 ### 前端开发资源总结
 * [开发资源总结](https://segmentfault.com/a/1190000002691861)
 * [前端工程师知识结构](http://html5ify.com/fks/)
