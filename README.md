@@ -51,8 +51,16 @@
  * [自定义字体图标库](http://www.uisdc.com/4-icon-font-production-method)  
  * [iconfont那些事](https://segmentfault.com/a/1190000005904616)  
  * [如何找到自己需要的Icon Fonts](http://www.solagirl.net/find-icon-fonts.html)
-   
-   
+* 图标下载网站
+ * [iconmonstr](http://iconmonstr.com/)
+ * [Find Icons](http://findicons.com/)
+ * [Icon Archive](http://www.iconarchive.com/)
+ * [iconfinder](https://www.iconfinder.com/free_icons)
+ * [Socialico](http://www.fontfabric.com/social-media-icons-pack/)
+ * [Icon Gallery](http://icongal.com/)
+ * [Noum Project](https://thenounproject.com/)
+ * [IconToucan](http://icontoucan.com/)
+ * [freepik](http://www.freepik.com/)
  
  
  
