@@ -47,10 +47,10 @@
  * [iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
  * [Open Iconic](https://useiconic.com/open/)
  * [Glyphicon Halflings](http://glyphicons.com/) (在Bootstrap下免费使用)
- * 一些关于iconfont的文章  
-   * [自定义字体图标库](http://www.uisdc.com/4-icon-font-production-method)  
-   * [iconfont那些事](https://segmentfault.com/a/1190000005904616)  
-   * [如何找到自己需要的Icon Fonts](http://www.solagirl.net/find-icon-fonts.html)
+* 一些关于iconfont的文章  
+ * [自定义字体图标库](http://www.uisdc.com/4-icon-font-production-method)  
+ * [iconfont那些事](https://segmentfault.com/a/1190000005904616)  
+ * [如何找到自己需要的Icon Fonts](http://www.solagirl.net/find-icon-fonts.html)
    
    
  
