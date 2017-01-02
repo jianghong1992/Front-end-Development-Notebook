@@ -156,6 +156,7 @@
  * [LOL Color](http://www.lolcolors.com/)
  * [配色](http://www.uisdc.com/tag/%e9%85%8d%e8%89%b2)
 * 免费图片素材
+ * [千图网](http://www.58pic.com/)
  * [泼辣有图](http://www.polayoutu.com/collections)
  * [STOCK UP](https://www.sitebuilderreport.com/stock-up)
  * [Pinterest](https://www.pinterest.com/)
@@ -192,6 +193,15 @@
  * [New Old Stock](http://nos.twnsnd.co/)
  * [jay mantri](http://jaymantri.com/)
  
+### 摄影
+* [图虫摄影网](https://sunmonk.tuchong.com/)
+* [图虫网](https://tuchong.com/)
+* [500px](https://500px.com/zhengsun)
+* [POCO摄影社区](http://photo.poco.cn/)
+* [LOFTER](http://www.lofter.com/)
+* [Eput](http://eput.com/)
+* [网易摄影](http://pp.163.com/square)
+
 ### 综合
 * [203 个实用工具推荐，运营、设计、广告人的必备神器！](http://www.digitaling.com/articles/30356.html)
  
