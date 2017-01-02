@@ -7,7 +7,10 @@
  * CSS3样式生成器（http://www.css88.com/tool/css3Preview/）  
  * CSS整理与优化工具（http://www.css88.com/tool/csstidy/）
  * CSS3渐变样式生成器（http://www.colorzilla.com/gradient-editor/）  
-* [纯CSS制作各种图形](https://segmentfault.com/a/1190000002780453)  
+ * CSS3 Generator（http://css3generator.com/）  
+ * Enjoy CSS（http://enjoycss.com/）
+ * Patternify(http://www.patternify.com/)
+* [纯CSS制作各种图形](https://segmentfault.com/a/1190000002780453)  
 * SASS 
  * SASS在线编译（http://www.sassmeister.com/）
  * SASS入门 教程（http://www.w3cplus.com/sassguide/）
@@ -17,3 +20,4 @@
 * CSS网站收集
  * [CssFlow免费开源前端UI资源分享网](http://www.cssflow.com/)
  * [CSS3大前端](http://www.daqianduan.com/tag/css3)
+ * [译-148个资源让你成为CSS专家](https://segmentfault.com/a/1190000006689923)
