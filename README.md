@@ -9,8 +9,8 @@
  * CSS3渐变样式生成器（http://www.colorzilla.com/gradient-editor/）  
 * [纯CSS制作各种图形](https://segmentfault.com/a/1190000002780453)  
 * SASS  
- * SASS入门 教程（http://www.w3cplus.com/sassguide/）
- * SASS在线编译（http://www.sassmeister.com/）  
+ * SASS入门 教程（http://www.w3cplus.com/sassguide/）  
+ * SASS在线编译（http://www.sassmeister.com/）
 * 定义浏览器统一的默认样式
  * [Normalize.css](https://necolas.github.io/normalize.css/)  改良派
  * [Reset.css](http://nec.netease.com/framework/css-reset.html)  革命派
