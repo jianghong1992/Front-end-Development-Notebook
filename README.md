@@ -61,6 +61,11 @@
  * [Noum Project](https://thenounproject.com/)
  * [IconToucan](http://icontoucan.com/)
  * [freepik](http://www.freepik.com/)
+
+### 前端开发资源总结
+* [开发资源总结](https://segmentfault.com/a/1190000002691861)
+* [前端工程师知识结构](http://html5ify.com/fks/fks_chart/)
+
  
  
  
