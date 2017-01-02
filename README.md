@@ -117,6 +117,29 @@
 * [HTML5梦工场](http://www.html5dw.com/)
 * [ShareJS](http://www.sharejs.com/)
 
+### 设计师导航
+* [UI设计第一站](http://www.ui001.com/)
+* [设计达人](http://www.shejidaren.com/)
+* [牛大拿设计师导航](https://www.niudana.com/)
+* [站酷](http://www.zcool.com.cn/)
+* [伯乐在线](http://hao.jobbole.com/?catid=803&from=singlemessage&isappinstalled=0#rd)
+* [SDC设计师网址导航](http://hao.uisdc.com/)
+* [设计帝国](http://www.warting.com/)
+* [优界网](http://97ui.com/)
+* [UI中国](http://www.iconfans.org/)
+* [优设网](http://www.uisdc.com/)
+* [设计本](http://www.shejiben.com/)
+* [超有趣的手绘 GIF 图片制作工具](http://flipanim.com/)
+* [设计是空](http://www.4kong.com/)
+* [设计青年](http://www.design521.com/)
+* [稀土区-优质设计开发资源分享](https://xituqu.com/)
+* [设计导航](http://hao.shejidaren.com/)
+* 设计资源网站收集
+ * [APP设计尺寸与规范](http://www.ui001.com/chicun/)
+ * [想去-买得起的好设计](http://www.xiangqu.com/)
+ * [零基础，如何系统入门illustrator（Ai）？](http://mp.weixin.qq.com/s?__biz=MzAxMTI2MDc0MQ==&mid=2652092758&idx=1&sn=775cfedb70527c44db7689091f344537&scene=21#wechat_redirect)
+ * []
+ 
 ### 综合
 * [203 个实用工具推荐，运营、设计、广告人的必备神器！](http://www.digitaling.com/articles/30356.html)
  
