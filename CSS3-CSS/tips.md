@@ -176,7 +176,47 @@
     box-shadow: inset 0 0 0 1000px #fff;  
   }
   ```
-- 使用border绘制小三角  
+- 网页素装(把网站整体变灰)  
+
+  ```
+  html {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+    -webkit-filter: grayscale(1);
+    filter: gray;
+  }
+  ```
+- 修改滚动条样式  
+
+  ```
+  .test1::-webkit-scrollbar {
+    width: 6px;
+  }
+  .test1::-webkit-scrollbar-track {
+    background-color:#808080;
+    -webkit-border-radius: 2em;
+    -moz-border-radius: 2em;
+    border-radius:2em;
+  }
+  .test1::-webkit-scrollbar-thumb {
+    background-color:#ff4400;
+    -webkit-border-radius: 2em;
+    -moz-border-radius: 2em;
+    border-radius:2em;
+  }
+  ```
+- IE的透明度兼容  
+
+  ```
+  background:#000;
+  filter:Alpha(opacity=60); 
+  background:rgba(0,0,0,0.6) none repeat scroll !important;
+  ```
+- 使用border绘制小三角  
 
   ```
   border-width: 10px 10px 10px 0; //左箭头  
