@@ -80,7 +80,9 @@
 * [GEEKTyper](http://geektyper.com/)
 * 图片插件
  * [PhotoSwiper](http://photoswipe.com/)
- * [Swiper](http://www.swiper.com.cn/)
+ * [Swiper](http://www.swiper.com.cn/)  
+ * [PhotoClip.js](https://github.com/baijunjie/PhotoClip.js?files=1) 移动端照片裁剪的简洁化解决方案
+ * [Magnifier.js](http://mark-rolich.github.io/Magnifier.js/) 支持鼠标滚轮缩放的图片放大镜效果
 * 日历插件
  * [pickadate.js](https://github.com/amsul/pickadate.js)
 * 分享插件
@@ -97,6 +99,7 @@
 * 支持移动端的手势库
  * [hammer.js](https://github.com/hammerjs/hammer.js)
  * [用hammer.js实现图片的缩放/旋转/拖拽](https://github.com/jianghong1992/Front-end-Development-Notebook/blob/master/imageScale.js)
+ * [pinchzoom.js](https://github.com/manuelstofer/pinchzoom)
  
 ### 前端开发资源总结
 * [开发资源总结](https://segmentfault.com/a/1190000002691861)
