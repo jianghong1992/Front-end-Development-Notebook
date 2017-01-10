@@ -71,7 +71,7 @@
 * [Mock.js](http://mockjs.com/)
 * [基于jQuery的板功剪贴能](https://github.com/zeroclipboard/jquery.zeroclipboard)
 * [无依赖的剪贴板功能](https://clipboardjs.com/#example-text)  
-* [PHP Mobile-Detect](https://github.com/serbanghita/Mobile-Detect)
+* [PHP Mobile-Detect](https://github.com/serbanghita/Mobile-Detect)
 * [Device.js](https://github.com/matthewhudson/device.js)
 * [jQuery UI Touch Punch](http://touchpunch.furf.com/)使用jQuery UI时让移动的也支持 touch events
 * [Remember Me functionality on SignIn/Login ](http://devzone.co.in/remember-functionality-signinlogin-form-using-html5-jquery/)
