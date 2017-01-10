@@ -1,4 +1,5 @@
 // 使用前先引用hammer.js
+// 原文链接： http://www.h5-share.com/articles/201609/hammerjs.html
 // 使用： var imageScale = new ImageScale().init({'el': document.querySelector('#Tshirtsrc')});
 
 this.reqAnimationFrame = (function () {
