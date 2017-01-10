@@ -96,7 +96,7 @@
  * [canvas2image](https://github.com/hongru/canvas2image)
 * 支持移动端的手势库
  * [hammer.js](https://github.com/hammerjs/hammer.js)
- * [用hammer.js实现图片的缩放/旋转/拖拽]
+ * [用hammer.js实现图片的缩放/旋转/拖拽](https://github.com/jianghong1992/Front-end-Development-Notebook/blob/master/imageScale.js)
  
 ### 前端开发资源总结
 * [开发资源总结](https://segmentfault.com/a/1190000002691861)
