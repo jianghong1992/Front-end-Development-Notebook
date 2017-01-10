@@ -70,7 +70,7 @@
 * [前端常用框架](https://github.com/iamjoel/front-end-plugins)
 * [Mock.js](http://mockjs.com/)
 * [基于jQuery的板功剪贴能](https://github.com/zeroclipboard/jquery.zeroclipboard)
-* [无依赖的剪贴板功能](https://clipboardjs.com/#example-text)
+* [无依赖的剪贴板功能](https://clipboardjs.com/#example-text)  
 * [PHP Mobile-Detect](https://github.com/serbanghita/Mobile-Detect)
 * [Device.js](https://github.com/matthewhudson/device.js)
 * [jQuery UI Touch Punch](http://touchpunch.furf.com/)使用jQuery UI时让移动的也支持 touch events
@@ -80,6 +80,7 @@
 * [GEEKTyper](http://geektyper.com/)
 * 图片插件
  * [PhotoSwiper](http://photoswipe.com/)
+ * [Swiper](http://www.swiper.com.cn/)
 * 日历插件
  * [pickadate.js](https://github.com/amsul/pickadate.js)
 * 分享插件
@@ -87,6 +88,15 @@
  * [百度分享](http://share.baidu.com/)
  * [Jia This](http://www.jiathis.com/)
  * [sosh](http://www.calledt.com/sosh/)
+* 保存与下载功能插件
+ * [download.js](http://danml.com/download.html)  
+ * [FileSaver.js](https://github.com/eligrey/FileSaver.js/)
+* 关于HTML5 canvas与Image的库
+ * [html2canvas](http://html2canvas.hertzen.com/) 网页截图  
+ * [canvas2image](https://github.com/hongru/canvas2image)
+* 支持移动端的手势库
+ * [hammer.js](https://github.com/hammerjs/hammer.js)
+ * [用hammer.js实现图片的缩放/旋转/拖拽]
  
 ### 前端开发资源总结
 * [开发资源总结](https://segmentfault.com/a/1190000002691861)
