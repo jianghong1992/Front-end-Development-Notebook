@@ -26,4 +26,60 @@ $("#photo").unbind("change").on("change",function(){
         reader.readAsDataURL(file);
     }
 });
+```  
+* 压缩照片  
+```
+//定义照片的最大高度
+var MAX_HEIGHT = 480;
+var render = function(src){
+    var image = new Image();
+    image.onload = function(){
+        var cvs = document.getElementById("cvs");
+        var w = image.width;
+        var h = image.height;
+        //计算压缩后的图片长和宽
+        if(h>MAX_HEIGHT){
+            w *= MAX_HEIGHT/h;
+            h = MAX_HEIGHT;
+        }
+        var ctx = cvs.getContext("2d");
+        cvs.width = w;
+        cvs.height = h;
+        //将图片绘制到Canvas上，从原点0,0绘制到w,h
+        ctx.drawImage(image,0,0,w,h);
+
+        //进入图片上传逻辑
+        sendImg();
+    };
+    image.src = src;
+};
+```  
+* 上传照片  
+```
+var sendImg = function(){
+    var cvs = document.getElementById("cvs");
+    //调用Canvas的toDataURL接口，得到的是照片文件的base64编码string
+    var data = cvs.toDataURL("image/jpeg");
+    //base64 string过短显然就不是正常的图片数据了，过滤の。
+    if(data.length<48){
+        console.log("image data error.");
+        return;
+    }
+    //图片的base64 string格式是data:/image/jpeg;base64,xxxxxxxxxxx
+    //是以data:/image/jpeg;base64,开头的，我们在服务端写入图片数据的时候不需要这个头！
+    //所以在这里只拿头后面的string
+    //当然这一步可以在服务端做，但让闲着蛋疼的客户端帮着做一点吧~~~（稍微减轻一点服务器压力）
+    data = data.split(",")[1];
+    $.post("./api/uploadimg",{
+        fileName:"xxx.jpeg",
+        fileData:data
+    },function(data){
+        if(data.status==200){
+            // some code here.
+            console.log("commit image success.");
+        }else{
+            console.log("commit image failed.");
+        }
+    },"json");
+};
 ```
