@@ -68,6 +68,14 @@
  * [IconToucan](http://icontoucan.com/)
  * [freepik](http://www.freepik.com/)
 
+### AJAX
+* 跨域  
+ * [常见跨域问题及解决方法]
+ * [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+ * [构建public APIs与CORS](https://segmentfault.com/a/1190000000709909)
+* [jQuery.ajax()](http://api.jquery.com/jQuery.ajax/)
+
+
 ### JS库与插件
 * [轻量高效无依赖的开源JS插件和库](https://github.com/jaywcjlove/handbook/blob/master/Javascript/%E8%BD%BB%E9%87%8F%E9%AB%98%E6%95%88%E7%9A%84%E5%BC%80%E6%BA%90JavaScript%E6%8F%92%E4%BB%B6%E5%92%8C%E5%BA%93.md)
 * [15 个有趣的 JavaScript 与 CSS 库](http://www.jianshu.com/p/f651fc45e586)
