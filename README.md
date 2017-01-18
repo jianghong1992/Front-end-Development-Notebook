@@ -42,7 +42,7 @@
 ### ICON
 * iconfont(字体库)
  * [Font Awesome](http://fontawesome.io/icons/)
- * [CharMpa](http://bluejamesbond.github.io/CharacterMap/) (将字体文件映射为图标)
+ * [CharMap](http://bluejamesbond.github.io/CharacterMap/) (将字体文件映射为图标)
  * [IconMoon](https://icomoon.io/app/#/select)
  * [fontello](http://fontello.com/)
  * [iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
