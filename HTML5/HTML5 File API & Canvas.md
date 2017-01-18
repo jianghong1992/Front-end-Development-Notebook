@@ -95,6 +95,7 @@ var sendImg = function(){
 #### 解决办法
 * [Fixes iOS6 Safari's image file rendering issue for large size image (over mega-pixel), which causes unexpected subsampling when drawing it in canvas.](https://github.com/stomita/ios-imagefile-megapixel)
 * [JavaScript library for reading EXIF image metadata](https://github.com/exif-js/exif-js)
+* [Exif.js 读取图像的元数据](http://code.ciaoca.com/javascript/exif-js/)
 
 经过优化后的完整代码就是：
 
