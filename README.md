@@ -110,7 +110,7 @@
 * [微信JS-SDK说明文档](https://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html#.E6.AD.A5.E9.AA.A4.E4.BA.8C.EF.BC.9A.E5.BC.95.E5.85.A5JS.E6.96.87.E4.BB.B6)  
 * [微信JS-SDK常见错误及解决方法](http://qydev.weixin.qq.com/wiki/index.php?title=%E5%BE%AE%E4%BF%A1JS%E6%8E%A5%E5%8F%A3#.E9.99.84.E5.BD.954-.E5.B8.B8.E8.A7.81.E9.94.99.E8.AF.AF.E5.8F.8A.E8.A7.A3.E5.86.B3.E6.96.B9.E6.B3.95)  
 * [微信 JS 接口签名校验工具](http://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=jsapisign)
-* [微信分享小工具]
+* [微信分享小工具](https://github.com/jianghong1992/Front-end-Development-Notebook/tree/master/wechat/wxShare)
  
 ### 前端开发资源总结
 * [开发资源总结](https://segmentfault.com/a/1190000002691861)
