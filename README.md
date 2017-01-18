@@ -40,7 +40,7 @@
  * [13款CSS3进度条动画源代码下载](https://www.yunrui.co/26261.html)
 
 ### HTML5  
-* HTML5常见问题与技巧
+* [HTML5常见问题与技巧](https://github.com/jianghong1992/Front-end-Development-Notebook/blob/master/HTML5/HTML5%20problems%20%26%20skills.md)
 * [使用HTML5 File API和Canvas实现图片压缩、旋转、上传](https://github.com/jianghong1992/Front-end-Development-Notebook/blob/master/HTML5/HTML5%20File%20API%20%26%20Canvas)  
 * [iphone手机html5上传图片方向问题解决](https://github.com/jianghong1992/Front-end-Development-Notebook/blob/master/HTML5/iPhone%20HTML5%20upload%20image%20direction.md)
 
