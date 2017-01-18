@@ -82,16 +82,16 @@ var sendImg = function(){
     },"json");
 };
 ```
+#### bug
 
-`上面代码是有兼容性问题的:  极小部分android和iphone4s以下的机型上得到的照片居然是不完整的！比如只有上半部分，下半部分是黑的，或者照片是旋转的！'
-
+`极小部分android和iphone4s以下的机型上得到的照片居然是不完整的！比如只有上半部分，下半部分是黑的，或者照片是旋转的！`
 * [HTML5 Canvas drawImage ratio bug iOS](http://stackoverflow.com/questions/11929099/html5-canvas-drawimage-ratio-bug-ios)
 
 * [iOS HTML5 canvas drawImage vertical scaling bug, even for small images?](http://stackoverflow.com/questions/11929099/html5-canvas-drawimage-ratio-bug-ios)
 
 * [Drawing on canvas after megapix rendering is reversed](http://stackoverflow.com/questions/24998317/drawing-on-canvas-after-megapix-rendering-is-reversed)
 
-`解决办法`
+#### 解决办法
 * [Fixes iOS6 Safari's image file rendering issue for large size image (over mega-pixel), which causes unexpected subsampling when drawing it in canvas.](https://github.com/stomita/ios-imagefile-megapixel)
 * [JavaScript library for reading EXIF image metadata](https://github.com/exif-js/exif-js)
 
