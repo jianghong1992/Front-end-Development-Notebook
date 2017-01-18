@@ -39,6 +39,9 @@
  * [纯CSS制作各种图形](https://segmentfault.com/a/1190000002780453)
  * [13款CSS3进度条动画源代码下载](https://www.yunrui.co/26261.html)
 
+### HTML5
+* [使用HTML5 File API和Canvas实现图片压缩、旋转、上传] 
+
 ### ICON
 * iconfont(字体库)
  * [Font Awesome](http://fontawesome.io/icons/)
