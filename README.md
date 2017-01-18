@@ -75,6 +75,10 @@
  * [构建public APIs与CORS](https://segmentfault.com/a/1190000000709909)
 * [jQuery.ajax()](http://api.jquery.com/jQuery.ajax/)
 
+### js模板引擎
+* [高性能JavaScript模板引擎原理解析](http://cdc.tencent.com/2012/06/15/%e9%ab%98%e6%80%a7%e8%83%bdjavascript%e6%a8%a1%e6%9d%bf%e5%bc%95%e6%93%8e%e5%8e%9f%e7%90%86%e8%a7%a3%e6%9e%90/)  
+* [artTemplate](https://github.com/aui/artTemplate)  
+
 
 ### JS库与插件
 * [轻量高效无依赖的开源JS插件和库](https://github.com/jaywcjlove/handbook/blob/master/Javascript/%E8%BD%BB%E9%87%8F%E9%AB%98%E6%95%88%E7%9A%84%E5%BC%80%E6%BA%90JavaScript%E6%8F%92%E4%BB%B6%E5%92%8C%E5%BA%93.md)
