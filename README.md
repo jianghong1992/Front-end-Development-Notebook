@@ -70,7 +70,7 @@
 
 ### AJAX
 * 跨域  
- * [常见跨域问题及解决方法]
+ * [常见跨域问题及解决方法](https://github.com/jianghong1992/Front-end-Development-Notebook/blob/master/AJAX/CROS.md)
  * [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
  * [构建public APIs与CORS](https://segmentfault.com/a/1190000000709909)
 * [jQuery.ajax()](http://api.jquery.com/jQuery.ajax/)
