@@ -40,7 +40,7 @@
  * [13款CSS3进度条动画源代码下载](https://www.yunrui.co/26261.html)
 
 ### HTML5
-* [使用HTML5 File API和Canvas实现图片压缩、旋转、上传] 
+* [使用HTML5 File API和Canvas实现图片压缩、旋转、上传](https://github.com/jianghong1992/Front-end-Development-Notebook/blob/master/HTML5/HTML5%20File%20API%20%26%20Canvas)
 
 ### ICON
 * iconfont(字体库)
