@@ -222,6 +222,7 @@
  * [配色](http://www.uisdc.com/tag/%e9%85%8d%e8%89%b2)
 * 免费图片素材
  * [千图网](http://www.58pic.com/)
+ * [千库网-免费png图片](http://588ku.com/)
  * [泼辣有图](http://www.polayoutu.com/collections)
  * [STOCK UP](https://www.sitebuilderreport.com/stock-up)
  * [Pinterest](https://www.pinterest.com/)
