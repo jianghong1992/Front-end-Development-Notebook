@@ -124,6 +124,14 @@
 * [微信 JS 接口签名校验工具](http://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=jsapisign)
 * [微信分享小工具](https://github.com/jianghong1992/Front-end-Development-Notebook/tree/master/wechat/wxShare)
  
+### 在线工具
+* [json在线解析及格式化验证](http://json.cn/)
+* [站长工具-Unix时间戳](http://tool.chinaz.com/Tools/unixtime.aspx)
+* [在线二维码图片生成器](http://www.liantu.com/)
+* [在线工具](http://tool.oschina.net/)
+* [loading动画代码在线生成](http://spin.js.org/)
+* [图片在线转base64](http://tool.css-js.com/base64.html)
+
 ### 前端开发资源总结
 * [开发资源总结](https://segmentfault.com/a/1190000002691861)
 * [前端工程师知识结构](http://html5ify.com/fks/)
