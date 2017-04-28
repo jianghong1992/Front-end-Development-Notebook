@@ -12,7 +12,6 @@
 1. [禁止IOS调整字体大小](#use-a-css-meta-all)
 1. [隐藏Android的语音输入按钮](#use-a-css-meta-all)
 1. [CSS3文字溢出显示省略号](#use-a-css-meta-all)
-1. [CSS3动态实现文本框清除按钮的隐藏与显示](#use-a-css-meta-all)
 1. [font-family 定义的最后为什么要加一句sans-serif](#use-a-css-meta-all)
 1. [禁止ios使用默认样式](#use-a-css-meta-all)
 
@@ -121,7 +120,6 @@
   white-space: nowrap;  
   text-overflow: ellipsis; 
   ```
-- CSS3动态实现文本框清除按钮的隐藏与显示  
 - font-family 定义的最后为什么要加一句sans-serif  
 
   ```
