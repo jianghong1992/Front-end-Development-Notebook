@@ -3,17 +3,20 @@
 1. [禁止ios识别数字为电话号码](#use-a-css-meta-ios-tel)
 1. [禁止浏览器自动识别Email](#use-a-css-meta-ios-email)
 1. [meta完整模板](#use-a-css-meta-all)
+1. [禁止ios使用默认样式](#use-a-css-no-default)
+1. [禁止长按链接与图片弹出菜单](#use-a-css-no-menu)
+1. [禁止选中文本](#use-a-css-no-text)
+1. [去掉a、input和button点击时的蓝色外边框和灰色半透明背景](#use-a-css-a-bg)
+1. [修改webkit中input的planceholder样式](#use-a-css-input-placeholder)
+1. [修改webkit中focus状态下input的planceholder样式](#use-a-css-input-focus-placeholder)
+1. [禁止IOS调整字体大小](#use-a-css-no-fontsize)
+1. [隐藏Android的语音输入按钮](#use-a-css-speech)
+1. [CSS3文字溢出显示省略号](#use-a-css-text-overflow)
+1. [font-family 定义的最后为什么要加一句sans-serif](#use-a-css-font-family)
 1. [禁止ios使用默认样式](#use-a-css-meta-all)
-1. [禁止长按链接与图片弹出菜单](#use-a-css-meta-all)
-1. [禁止选中文本](#use-a-css-meta-all)
-1. [去掉a、input和button点击时的蓝色外边框和灰色半透明背景](#use-a-css-meta-all)
-1. [修改webkit中input的planceholder样式](#use-a-css-meta-all)
-1. [修改webkit中focus状态下input的planceholder样式](#use-a-css-meta-all)
-1. [禁止IOS调整字体大小](#use-a-css-meta-all)
-1. [隐藏Android的语音输入按钮](#use-a-css-meta-all)
-1. [CSS3文字溢出显示省略号](#use-a-css-meta-all)
-1. [font-family 定义的最后为什么要加一句sans-serif](#use-a-css-meta-all)
-1. [禁止ios使用默认样式](#use-a-css-meta-all)
+
+<div id=""></div>
+
 
 <div id="use-a-css-meta-viewport"></div>
 
@@ -56,6 +59,8 @@
   <meta name="format-detection" content="telephone=no"/>  
   <meta name="format-detection" content="email=no"/>
   ```
+<div id="use-a-css-no-default"></div>
+
 - 禁止ios使用默认样式  
 
   ```
@@ -63,6 +68,8 @@
     -webkit-appearance:none; 
   }  
   ```
+<div id="use-a-css-no-menu"></div>
+
 - 禁止长按链接与图片弹出菜单  
 
   ```
@@ -70,6 +77,8 @@
     -webkit-touch-callout: none; 
   }
   ```
+<div id="use-a-css-no-text"></div>
+
 - 禁止选中文本  
 
   ```
@@ -78,6 +87,8 @@
     user-select: none; 
   }
   ```
+<div id="use-a-css-a-bg"></div>
+
 - 去掉a、input和button点击时的蓝色外边框和灰色半透明背景  
 
   ```
@@ -85,6 +96,8 @@
     -webkit-tap-highlight-color:rgba(0,0,0,0);
   }
   ```
+<div id="use-a-css-input-placeholder"></div>
+
 - 修改webkit中input的planceholder样式  
 
   ```
@@ -92,6 +105,8 @@
     color:#ccc;
   }
   ```
+<div id="use-a-css-input-focus-placeholder"></div>
+
 - 修改webkit中focus状态下input的planceholder样式  
 
   ```
@@ -99,6 +114,8 @@
     color:#f00; 
   }
   ```
+<div id="use-a-css-no-fontsize"></div>
+
 - 禁止IOS调整字体大小  
 
   ```
@@ -106,6 +123,8 @@
     -webkit-text-size-adjust: 100%!important; 
   }
   ```
+<div id="use-a-css-speech"></div>
+
 - 隐藏Android的语音输入按钮  
 
   ```
@@ -113,6 +132,8 @@
     display: none;
   }
   ```
+<div id="use-a-css-text-overflow"></div>
+
 - CSS3文字溢出显示省略号  
 
   ```
@@ -120,6 +141,8 @@
   white-space: nowrap;  
   text-overflow: ellipsis; 
   ```
+<div id="use-a-css-font-family"></div>
+
 - font-family 定义的最后为什么要加一句sans-serif  
 
   ```
