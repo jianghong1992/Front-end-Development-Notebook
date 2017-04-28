@@ -1,7 +1,8 @@
 # CSS3(CSS)技巧
-[使用CSS复位](#use-a-css-meta-viewport)
+1. [使用CSS复位](#use-a-css-meta-viewport)
 
 <div id="use-a-css-meta-viewport"></div>
+
 - 视窗宽度  
 
   ```
