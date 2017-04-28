@@ -76,7 +76,8 @@ CSS复位可以在不同的浏览器上保持一致的样式风格。您可以�
 
 
 <div id="inherit-box-sizing"></div>
-### 继承 `box-sizing`
+
+- 继承 `box-sizing`
 
 从 `html` 元素继承 `box-sizing` ：
 
@@ -96,7 +97,8 @@ html {
 
 
 <div id="use-not-to-applyunapply-borders-on-navigation"></div>
-### 使用 `:not()` 选择器来决定表单是否显示边框
+
+- 使用 `:not()` 选择器来决定表单是否显示边框
 
 先为元素添加边框
 
@@ -132,7 +134,8 @@ html {
 
 
 <div id="add-line-height-to-body"></div>
-### 为 `body` 元素添加行高
+
+- 为 `body` 元素添加行高
 
 不必为每一个 `<p>`，`<h*>` 元素逐一添加 `line-height`，直接添加到 `body` 元素：
 
@@ -150,7 +153,8 @@ body {
 
 
 <div id="vertically-center-anything"></div>
-### 垂直居中任何元素
+
+- 垂直居中任何元素
 
 不！这绝不是黑魔法，真的可以垂直居中任何元素：
 
@@ -179,7 +183,8 @@ body {
 
 
 <div id="comma-separated-lists"></div>
-### 逗号分隔列表
+
+- 逗号分隔列表
 
 使列表的每项都由逗号分隔：
 
@@ -197,7 +202,8 @@ ul > li:not(:last-child)::after {
 
 
 <div id="select-items-using-negative-nth-child"></div>
-### 使用负的 `nth-child` 来选择元素
+
+- 使用负的 `nth-child` 来选择元素
 
 使用负的 `nth-child` 可以选择 1 至 n 个元素。
 
@@ -230,7 +236,8 @@ li:not(:nth-child(-n+3)) {
 
 
 <div id="use-svg-for-icons"></div>
-### 使用 SVG 图标
+
+- 使用 SVG 图标
 
 没有理由不使用 SVG 图标：
 
@@ -254,7 +261,8 @@ SVG 在所有分辨率下都可以良好缩放，并且支持所有 IE9 以后�
 
 
 <div id="use-the-lobotomized-owl-selector"></div>
-### 使用 “形似猫头鹰” 的选择器
+
+- 使用 “形似猫头鹰” 的选择器
 
 这个名字可能比较陌生，不过通用选择器 (`*`) 和 相邻兄弟选择器 (`+`) 一起使用，效果非凡：
 
@@ -274,7 +282,8 @@ SVG 在所有分辨率下都可以良好缩放，并且支持所有 IE9 以后�
 
 
 <div id="use-max-height-for-pure-css-sliders"></div>
-### 使用 `max-height` 来建立纯 CSS 的滑块
+
+- 使用 `max-height` 来建立纯 CSS 的滑块
 
 `max-height` 与 overflow hidden 一起来建立纯 CSS 的滑块：
 
@@ -297,7 +306,8 @@ SVG 在所有分辨率下都可以良好缩放，并且支持所有 IE9 以后�
 
 
 <div id="equal-width-table-cells"></div>
-### 创造格子等宽的表格
+
+- 创造格子等宽的表格
 
 `table-layout: fixed` 可以让每个格子保持等宽：
 
@@ -315,7 +325,8 @@ SVG 在所有分辨率下都可以良好缩放，并且支持所有 IE9 以后�
 
 
 <div id="get-rid-of-margin-hacks-with-flexbox"></div>
-### 利用 Flexbox 去除多余的外边距
+
+- 利用 Flexbox 去除多余的外边距
 
 与其使用 `nth-`， `first-`， 和 `last-child` 去除列之间多余的间隙，不如使用 flexbox 的 `space-between` 属性：
 
@@ -336,7 +347,8 @@ SVG 在所有分辨率下都可以良好缩放，并且支持所有 IE9 以后�
 
 
 <div id="use-attribute-selectors-with-empty-links"></div>
-### 利用属性选择器来选择空链接
+
+- 利用属性选择器来选择空链接
 
 当 `<a>` 元素没有文本内容，但有 `href` 属性的时候，显示它的 `href` 属性：
 
@@ -354,7 +366,8 @@ a[href^="http"]:empty::before {
 
 
 <div id="style-default-links"></div>
-### 给 “默认” 链接定义样式
+
+- 给 “默认” 链接定义样式
 
 给 “默认” 链接定义样式：
 
@@ -371,7 +384,8 @@ a[href]:not([class]) {
 
 
 <div id="consistent-vertical-rhythm"></div>
-### 一致垂直节奏
+
+- 一致垂直节奏
 
 通用选择器 (`*`) 跟元素一起使用，可以保持一致的垂直节奏：
 
@@ -387,7 +401,8 @@ a[href]:not([class]) {
 
 
 <div id="intrinsic-ratio-boxes"></div>
-### 固定比例盒子
+
+- 固定比例盒子
 
 要创建具有固定比例的一个盒子，所有你需要做的就是给 div 设置一个 padding：
 
@@ -416,7 +431,8 @@ a[href]:not([class]) {
 
 
 <div id="style-broken-images"></div>
-### 为破碎图象定义样式
+
+- 为破碎图象定义样式
 
 只要一点CSS就可以美化破碎的图象：
 
@@ -455,7 +471,8 @@ img:after {
 
 
 <div id="use-rem-for-global-sizing-use-em-for-local-sizing"></div>
-### 用 `rem` 来调整全局大小；用 `em` 来调整局部大小
+
+- 用 `rem` 来调整全局大小；用 `em` 来调整局部大小
 
 在根元素设置基本字体大小后 (`html { font-size: 100%; }`), 使用 `em` 设置文本元素的字体大小:
 
@@ -487,7 +504,8 @@ aside .module {
 
 
 <div id="hide-autoplay-videos-that-arent-muted"></div>
-### 隐藏没有静音、自动播放的影片
+
+- 隐藏没有静音、自动播放的影片
 
 这是一个自定义用户样式表的不错的技巧。避免在加载页面时自动播放。如果没有静音，则不显示视频：
 
@@ -503,7 +521,8 @@ video[autoplay]:not([muted]) {
 
 
 <div id="use-root-for-flexible-type"></div>
-### 使用选择器`:root`来控制字体弹性
+
+- 使用选择器`:root`来控制字体弹性
 
 在响应式布局中，字体大小应需要根据不同的视口进行调整。你可以计算字体大小根据视口高度的字体大小和宽度，这时需要用到`:root`:
 
@@ -527,7 +546,8 @@ body {
 
 
 <div id="set-font-size-on-form-elements-for-a-better-mobile-experience"></div>
-### 为更好的移动体验，为表单元素设置字体大小
+
+- 为更好的移动体验，为表单元素设置字体大小
 
 当触发`<select>`的下拉列表时，为了避免表单元素在移动浏览器（IOS Safari 等等）上的缩放，加上`font-size`：
 
@@ -543,12 +563,6 @@ textarea {
 :dancer:
 
 <sup>[回目录](#table-of-contents)</sup>
-
-
-### 支持情况
-
-这些技巧适用于最新版的 Chrome, Firefox, Safari, Opera, Edge, 以及 IE11。
-
 
 <div id="use-a-css-meta-viewport"></div>
 
