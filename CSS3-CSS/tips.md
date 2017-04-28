@@ -1,6 +1,8 @@
 # CSS3(CSS)技巧
 1. [视窗宽度](#use-a-css-meta-viewport)
 1. [禁止ios识别数字为电话号码](#use-a-css-meta-ios-tel)
+1. [禁止浏览器自动识别Email](#use-a-css-meta-ios-email)
+1. [meta完整模板](#use-a-css-meta-all)
 
 <div id="use-a-css-meta-viewport"></div>
 
@@ -27,11 +29,15 @@
   ```
   <meta name="format-detection" content="telephone=no"/>  
   ```
+<div id="use-a-css-meta-ios-email"></div>
+
 - 禁止浏览器自动识别Email  
 
   ```
   <meta name="format-detection" content="email=no"/>  
   ```
+<div id="use-a-css-meta-all"></div>
+
 - meta完整模板  
 
   ```
