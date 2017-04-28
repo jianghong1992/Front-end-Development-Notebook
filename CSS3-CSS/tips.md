@@ -49,6 +49,7 @@
   ```
   <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no"/>
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-meta-ios-tel"></div>  
 
 - 禁止ios识别数字为电话号码  
@@ -56,6 +57,7 @@
   ```
   <meta name="format-detection" content="telephone=no"/>  
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-meta-ios-email"></div>
 
 - 禁止浏览器自动识别Email  
@@ -63,6 +65,7 @@
   ```
   <meta name="format-detection" content="email=no"/>  
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-meta-all"></div>
 
 - meta完整模板  
@@ -72,6 +75,7 @@
   <meta name="format-detection" content="telephone=no"/>  
   <meta name="format-detection" content="email=no"/>
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-no-default"></div>
 
 - 禁止ios使用默认样式  
@@ -81,6 +85,7 @@
     -webkit-appearance:none; 
   }  
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-no-menu"></div>
 
 - 禁止长按链接与图片弹出菜单  
@@ -90,6 +95,7 @@
     -webkit-touch-callout: none; 
   }
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-no-text"></div>
 
 - 禁止选中文本  
@@ -100,6 +106,7 @@
     user-select: none; 
   }
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-a-bg"></div>
 
 - 去掉a、input和button点击时的蓝色外边框和灰色半透明背景  
@@ -109,6 +116,7 @@
     -webkit-tap-highlight-color:rgba(0,0,0,0);
   }
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-input-placeholder"></div>
 
 - 修改webkit中input的planceholder样式  
@@ -118,6 +126,7 @@
     color:#ccc;
   }
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-input-focus-placeholder"></div>
 
 - 修改webkit中focus状态下input的planceholder样式  
@@ -127,6 +136,7 @@
     color:#f00; 
   }
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-no-fontsize"></div>
 
 - 禁止IOS调整字体大小  
@@ -136,6 +146,7 @@
     -webkit-text-size-adjust: 100%!important; 
   }
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-speech"></div>
 
 - 隐藏Android的语音输入按钮  
@@ -145,6 +156,7 @@
     display: none;
   }
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-text-overflow"></div>
 
 - CSS3文字溢出显示省略号  
@@ -154,6 +166,7 @@
   white-space: nowrap;  
   text-overflow: ellipsis; 
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-font-family"></div>
 
 - font-family 定义的最后为什么要加一句sans-serif  
@@ -165,16 +178,19 @@
   ```
   `sans-serif无衬线字体，是一类字体，它在操作系统或者浏览器里是可以设置的，你可以把它设置成宋体，也可以设置成微软雅黑，而设置的这种字体肯定是当前系统里存在的字体，所以使用这个字体就一肯能显示出来，所以加上sans-serif就能保证调用。`  
   `Sans-serif简介：Sans-serif是专指西文中没有衬线的字体，与汉字字体中的黑体相对应。该类字体通常是机械的和统一线条的，它们往往拥有相同的曲率，笔直的线条，锐利的转角。`  
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-pointer-events"></div>
 
 - [pointer-events属性](http://www.w3cplus.com/css3/css-reference/pointer-events.html) 
 
   `pointer-events: none; 元素上的指针事件被禁用。元素不会响应于指针事件。就像该元素不存在一样，元素的子元素响应于指针事件。`    
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-apple-icon"></div>
 
 - 自定义苹果图标  
 
   `在网站文件根目录放一个 apple-touch-icon.png 文件，苹果设备保存网站为书签或桌面快捷方式时，就会使用这个文件作为图标，文件尺寸建议为：180px × 180px`
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-favicon"></div>
 
 - 自定义favicon  
@@ -183,6 +199,7 @@
   <link rel="icon" href="favicon.ico" mce_href="favicon.ico" type="image/x-icon">
   ```  
   
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-browser-click"></div>
 
 - 定义浏览器点击行为  
@@ -192,6 +209,7 @@
   <a href="sms:10086">发短信给: 10086</a>  
   <a href="mailto:me@22278.club">发送邮件: me@22278.club</a>
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-center"></div>
 
 - css3自适应上下左右居中  
@@ -201,6 +219,7 @@
   .aboutlist_wrap ul li a p {display: table-cell;text-align: center;}
   .aboutlist_wrap ul li a p {vertical-align: middle;}
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-mobile-font"></div>
 
 - 移动端字体自适应大小  
@@ -223,6 +242,7 @@
     html {font-size: 1095%;}
   }
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-file-type"></div>
 
 - 定义上传文件类型和格式  
@@ -241,6 +261,7 @@
     box-shadow: inset 0 0 0 1000px #fff;  
   }
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-gray"></div>
 
 - 网页素装(把网站整体变灰)  
@@ -257,6 +278,7 @@
     filter: gray;
   }
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-scroolbar"></div>
 
 - 修改滚动条样式  
@@ -278,6 +300,7 @@
     border-radius:2em;
   }
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-IE-transparent"></div>
 
 - IE的透明度兼容  
@@ -287,6 +310,7 @@
   filter:Alpha(opacity=60); 
   background:rgba(0,0,0,0.6) none repeat scroll !important;
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-triangle"></div>
 
 - 使用border绘制小三角  
@@ -328,6 +352,7 @@
     content: ""; 
   }
   ```
+<sup>[回目录](#table-of-contents)</sup>
 <div id="use-a-css-box-shadow"></div>
 
 - box-shadow实现纸张的曲线投影效果  
@@ -440,5 +465,5 @@
   }
 
   ```
-  <sup>[回目录](#table-of-contents)</sup>
+<sup>[回目录](#table-of-contents)</sup>
   
