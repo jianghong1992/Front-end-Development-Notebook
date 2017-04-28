@@ -58,42 +58,42 @@
 
   CSS复位可以在不同的浏览器上保持一致的样式风格。您可以使用CSS reset 库[Normalize](http://necolas.github.io/normalize.css/)等，也可以使用一个更简化的复位方法：
 
-```css
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-```
+  ```css
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  ```
 
-现在元素的 margin 和 padding 已为0，`box-sizing`可以管理您的CSS盒模型布局。
+  现在元素的 margin 和 padding 已为0，`box-sizing`可以管理您的CSS盒模型布局。
 
-#### [演示](http://codepen.io/AllThingsSmitty/pen/kkrkLL)
+  #### [演示](http://codepen.io/AllThingsSmitty/pen/kkrkLL)
 
-注意：如果你遵循接下来[继承 `box-sizing`](#inherit-box-sizing)讲解的这个技巧, 你不需要在以上代码中添加 `box-sizing` 属性。
+  注意：如果你遵循接下来[继承 `box-sizing`](#inherit-box-sizing)讲解的这个技巧, 你不需要在以上代码中添加 `box-sizing` 属性。
 
-<sup>[回目录](#table-of-contents)</sup>
+  <sup>[回目录](#table-of-contents)</sup>
 
 
 <div id="inherit-box-sizing"></div>
 
 - 继承 `box-sizing`
 
-从 `html` 元素继承 `box-sizing` ：
+  从 `html` 元素继承 `box-sizing` ：
 
-```css
-html {
-  box-sizing: border-box;
-}
+  ```css
+  html {
+    box-sizing: border-box;
+  }
 
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-```
+  *, *::before, *::after {
+    box-sizing: inherit;
+  }
+  ```
 
-如此在插件或其它组件里改变 `box-sizing` 变得简单。
+  如此在插件或其它组件里改变 `box-sizing` 变得简单。
 
-<sup>[回目录](#table-of-contents)</sup>
+  <sup>[回目录](#table-of-contents)</sup>
 
 
 <div id="use-not-to-applyunapply-borders-on-navigation"></div>
