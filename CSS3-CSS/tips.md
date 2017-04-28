@@ -3,6 +3,18 @@
 1. [禁止ios识别数字为电话号码](#use-a-css-meta-ios-tel)
 1. [禁止浏览器自动识别Email](#use-a-css-meta-ios-email)
 1. [meta完整模板](#use-a-css-meta-all)
+1. [禁止ios使用默认样式](#use-a-css-meta-all)
+1. [禁止长按链接与图片弹出菜单](#use-a-css-meta-all)
+1. [禁止选中文本](#use-a-css-meta-all)
+1. [去掉a、input和button点击时的蓝色外边框和灰色半透明背景](#use-a-css-meta-all)
+1. [修改webkit中input的planceholder样式](#use-a-css-meta-all)
+1. [修改webkit中focus状态下input的planceholder样式](#use-a-css-meta-all)
+1. [禁止IOS调整字体大小](#use-a-css-meta-all)
+1. [隐藏Android的语音输入按钮](#use-a-css-meta-all)
+1. [CSS3文字溢出显示省略号](#use-a-css-meta-all)
+1. [CSS3动态实现文本框清除按钮的隐藏与显示](#use-a-css-meta-all)
+1. [font-family 定义的最后为什么要加一句sans-serif](#use-a-css-meta-all)
+1. [禁止ios使用默认样式](#use-a-css-meta-all)
 
 <div id="use-a-css-meta-viewport"></div>
 
