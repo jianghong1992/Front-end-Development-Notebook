@@ -1,5 +1,6 @@
 # CSS3(CSS)技巧
-1. [使用CSS复位](#use-a-css-meta-viewport)
+1. [视窗宽度](#use-a-css-meta-viewport)
+1. [禁止ios识别数字为电话号码](#use-a-css-meta-ios-tel)
 
 <div id="use-a-css-meta-viewport"></div>
 
@@ -19,6 +20,8 @@
   ```
   <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no"/>
   ```
+<div id="use-a-css-meta-ios-tel"></div>  
+
 - 禁止ios识别数字为电话号码  
 
   ```
