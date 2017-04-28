@@ -472,7 +472,7 @@
 
 <div id="use-rem-for-global-sizing-use-em-for-local-sizing"></div>
 
-  - 用 `rem` 来调整全局大小；用 `em` 来调整局部大小
+- 用 `rem` 来调整全局大小；用 `em` 来调整局部大小
 
   在根元素设置基本字体大小后 (`html { font-size: 100%; }`), 使用 `em` 设置文本元素的字体大小:
 
