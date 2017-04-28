@@ -167,7 +167,7 @@
 * [前端圈](http://sentsin.com/daohang/)
 * [前端美](https://www.qianduanmei.com/)
 * [菜鸟教程](http://www.runoob.com/)
-* [掘进](https://gold.xitu.io/)
+* [掘金](https://gold.xitu.io/)
 * [TalkingCoder](https://www.talkingcoder.com/)
 * [OPEN开发经验库](http://www.open-open.com/lib/tag/JavaScript)
 * [InfoQ](http://www.infoq.com/cn)
