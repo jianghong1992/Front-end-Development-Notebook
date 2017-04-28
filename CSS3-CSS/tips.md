@@ -13,10 +13,20 @@
 1. [隐藏Android的语音输入按钮](#use-a-css-speech)
 1. [CSS3文字溢出显示省略号](#use-a-css-text-overflow)
 1. [font-family 定义的最后为什么要加一句sans-serif](#use-a-css-font-family)
-1. [禁止ios使用默认样式](#use-a-css-meta-all)
-
-<div id=""></div>
-
+1. [pointer-events属性](#use-a-css-pointer-events)
+1. [自定义苹果图标](#use-a-css-apple-icon)
+1. [自定义favicon](#use-a-css-favicon)
+1. [定义浏览器点击行为](#use-a-css-browser-click)
+1. [css3自适应上下左右居中](#use-a-css-center)
+1. [移动端字体自适应大小](#use-a-css-mobile-font)
+1. [定义上传文件类型和格式](#use-a-css-file-type)
+1. [网页素装(把网站整体变灰)](#use-a-css-gray)
+1. [修改滚动条样式](#use-a-css-scroolbar)
+1. [IE的透明度兼容](#use-a-css-IE-transparent)
+1. [使用border绘制小三角](#use-a-css-triangle)
+1. [Tootip写法](#use-a-css-tooltip)
+1. [box-shadow实现纸张的曲线投影效果](#use-a-css-box-shadow)
+1. [利用css3径向渐变做一张优惠券](#use-a-css-quan)
 
 <div id="use-a-css-meta-viewport"></div>
 
@@ -152,18 +162,26 @@
   ```
   `sans-serif无衬线字体，是一类字体，它在操作系统或者浏览器里是可以设置的，你可以把它设置成宋体，也可以设置成微软雅黑，而设置的这种字体肯定是当前系统里存在的字体，所以使用这个字体就一肯能显示出来，所以加上sans-serif就能保证调用。`  
   `Sans-serif简介：Sans-serif是专指西文中没有衬线的字体，与汉字字体中的黑体相对应。该类字体通常是机械的和统一线条的，它们往往拥有相同的曲率，笔直的线条，锐利的转角。`  
+<div id="use-a-css-pointer-events"></div>
+
 - [pointer-events属性](http://www.w3cplus.com/css3/css-reference/pointer-events.html) 
 
   `pointer-events: none; 元素上的指针事件被禁用。元素不会响应于指针事件。就像该元素不存在一样，元素的子元素响应于指针事件。`    
+<div id="use-a-css-apple-icon"></div>
+
 - 自定义苹果图标  
 
   `在网站文件根目录放一个 apple-touch-icon.png 文件，苹果设备保存网站为书签或桌面快捷方式时，就会使用这个文件作为图标，文件尺寸建议为：180px × 180px`
+<div id="use-a-css-favicon"></div>
+
 - 自定义favicon  
 
   ```
   <link rel="icon" href="favicon.ico" mce_href="favicon.ico" type="image/x-icon">
   ```  
   
+<div id="use-a-css-browser-click"></div>
+
 - 定义浏览器点击行为  
 
   ```
@@ -171,6 +189,8 @@
   <a href="sms:10086">发短信给: 10086</a>  
   <a href="mailto:me@22278.club">发送邮件: me@22278.club</a>
   ```
+<div id="use-a-css-center"></div>
+
 - css3自适应上下左右居中  
 
   ```
@@ -178,6 +198,8 @@
   .aboutlist_wrap ul li a p {display: table-cell;text-align: center;}
   .aboutlist_wrap ul li a p {vertical-align: middle;}
   ```
+<div id="use-a-css-mobile-font"></div>
+
 - 移动端字体自适应大小  
 
   ```
@@ -198,6 +220,8 @@
     html {font-size: 1095%;}
   }
   ```
+<div id="use-a-css-file-type"></div>
+
 - 定义上传文件类型和格式  
 
   ```
@@ -214,6 +238,8 @@
     box-shadow: inset 0 0 0 1000px #fff;  
   }
   ```
+<div id="use-a-css-gray"></div>
+
 - 网页素装(把网站整体变灰)  
 
   ```
@@ -228,6 +254,8 @@
     filter: gray;
   }
   ```
+<div id="use-a-css-scroolbar"></div>
+
 - 修改滚动条样式  
 
   ```
@@ -247,6 +275,8 @@
     border-radius:2em;
   }
   ```
+<div id="use-a-css-IE-transparent"></div>
+
 - IE的透明度兼容  
 
   ```
@@ -254,6 +284,8 @@
   filter:Alpha(opacity=60); 
   background:rgba(0,0,0,0.6) none repeat scroll !important;
   ```
+<div id="use-a-css-triangle"></div>
+
 - 使用border绘制小三角  
 
   ```
@@ -262,6 +294,8 @@
   border-style: solid;  
   width: 0;
   ```
+<div id="use-a-css-tooltip"></div>
+
 - Tootip写法  
 
   ```
@@ -291,6 +325,8 @@
     content: ""; 
   }
   ```
+<div id="use-a-css-box-shadow"></div>
+
 - box-shadow实现纸张的曲线投影效果  
 
   ```
@@ -338,6 +374,8 @@
     z-index: -1;       
   }
   ```
+<div id="use-a-css-quan"></div>
+
 - 利用css3径向渐变做一张优惠券  
 
   ```
