@@ -204,7 +204,7 @@
 * [Collect UI](http://collectui.com/)
 * [SiteInspire](https://www.siteinspire.com/)
 * [One Page Love](https://onepagelove.com/)
-* [The Best Designs] (https://www.thebestdesigns.com/)
+* [The Best Designs](https://www.thebestdesigns.com/)
 * [ResourceCards](https://resourcecards.com/)
 * [Behance](https://www.behance.net/)
 * [CDC](http://cdc.tencent.com/)
